@@ -20,7 +20,7 @@ cd Manish_singh_DataScience
 pip install PyPDF2 sentence-transformers faiss-cpu transformers
 ```
 
-#📥 Download Free/Open Models
+📥 Download Free/Open Models
 1. Embedding Model (for retrieval)
 ```bash
 Model: sentence-transformers/all-MiniLM-L6-v2
@@ -37,7 +37,7 @@ Model: google/flan-t5-small
 from transformers import pipeline
 qa_pipeline = pipeline("text2text-generation", model="google/flan-t5-small")
 ```
-#🚀 Run Prototype
+🚀 Run Prototype
 Step 1: Prepare Documents
 Place your PDFs inside the docs/ folder:
 
@@ -65,7 +65,7 @@ print(answer)
 Expected Output:
 A sudden draft drop indicates that the cyclone is overflowing. [Source: SOP_Cyclone.pdf]
 ```
-#📊 Features
+📊 Features
 Document ingestion & preprocessing
 
 Chunking and vector indexing using FAISS
@@ -76,7 +76,7 @@ Context-aware answer generation with citations
 
 # Local-only, free/open-source
 
-##👨‍💻 Author
+#👨‍💻 Author
 Manish Kumar Singh
 
 ✨ Free to use, modify, and extend for your own dataset!
