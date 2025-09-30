@@ -13,7 +13,7 @@ git clone https://github.com/Manishkumarsingh41/Manish_singh_DataScience.git
 cd Manish_singh_DataScience
 
 ```
-```bash
+
 2. Install Dependencies
 
 ```bash
