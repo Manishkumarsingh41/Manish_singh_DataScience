@@ -76,7 +76,7 @@ Context-aware answer generation with citations
 
 # Local-only, free/open-source
 
-#👨‍💻 Author
+👨‍💻 Author
 Manish Kumar Singh
 
 ✨ Free to use, modify, and extend for your own dataset!
